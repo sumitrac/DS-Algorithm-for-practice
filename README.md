@@ -1,4 +1,4 @@
-## Data Structures and Algorithm practice
+## Data Structures and Algorithm
 
 ##### Summary of commom data structures in programming 
 
