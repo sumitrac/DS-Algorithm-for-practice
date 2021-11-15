@@ -6,7 +6,8 @@
 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) 
 
 
-## Array![image](https://user-images.githubusercontent.com/58893954/141718608-32b8ce69-bf2c-4b30-854a-094bc999e47a.png)
+## Array
+[image](https://user-images.githubusercontent.com/58893954/141718608-32b8ce69-bf2c-4b30-854a-094bc999e47a.png)
 
 
 
