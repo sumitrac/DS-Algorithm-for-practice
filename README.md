@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/58893954/141718691-d625cad8-1e63-4f8d-9592-071eae7c9b93.png)
 
 ## Tree 
-[Binary Tree Data Structure Resource](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+[Binary Tree Data Structure Resource](https://www.geeksforgeeks.org/binary-tree-data-structure/)</br>
 [Binnary Search Tree Data Structure Resource](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 ![image](https://user-images.githubusercontent.com/58893954/141718999-d55c1426-fa65-4320-8196-e9cd32a823cc.png)
 
