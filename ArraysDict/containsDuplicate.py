@@ -44,3 +44,8 @@ print(containsDuplicate(nums))
 print(containsDuplicate(nums1))
 print(containsDuplicate(nums2))
 print(containsDuplicate(nums3))
+
+def test_containsDuplicate():
+    assert containsDuplicate(nums) == True 
+def test_containsNoDuplicate():
+    assert containsDuplicate(nums) == False
