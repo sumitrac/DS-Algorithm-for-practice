@@ -7,6 +7,8 @@ input4 = "<>"
 # append openers in stack
 # compare two openers and closers 
 
+# Time: O(n)
+# Space: O(n)
 
 def is_valid(string):
     stack = []
